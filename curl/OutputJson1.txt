@@ -1,0 +1,1 @@
+a:3:{s:9:"SumResult";i:30;s:9:"MulResult";i:4;s:12:"SortedInputs";a:4:{i:0;s:4:"1.00";i:1;s:4:"1.01";i:2;s:4:"2.02";i:3;s:4:"4.00";}}
